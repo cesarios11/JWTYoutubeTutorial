@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D7IFxyDXEwLPtSeiLB77ob4RoYtHE3mlV9B9NF14BJsTnauyyd1B+QKbbwaVWDrNa9q2CKwMGjVQHf4fC/ia0A==",
+  "dgSpecHash": "wXxNcey/lv+DIVQT3NbZ+NEugH6t6VByoK8AwZXpCYpE49YQ1mOPuPkbOyLmV99DmAMPYnLIA8DaO5QXxMRi8g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lenovo\\Downloads\\JWT\\JwtProject\\JwtProject.csproj",
+  "projectFilePath": "C:\\Users\\Lenovo\\Documents\\CESARIOS\\GIT HUB REPO\\JWT\\YOUTUBE TUTORIAL\\JWT\\JwtProject\\JwtProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.19\\microsoft.aspnetcore.authentication.jwtbearer.6.0.19.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
